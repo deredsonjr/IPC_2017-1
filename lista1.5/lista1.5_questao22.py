@@ -12,3 +12,11 @@
 # 22. Faça um programa que receba o número de lados de um polígono convexo, calcule e mostre o número de diagonais desse polígono,
 # onde N é o número de lados do polígono. Sabe-se que ND=N(N-3)/2.
 #
+angle1= int(input("Digite o angulo 1"))
+angle2 = int(input("Digite o angulo2"))
+
+angle_sum = angle1 + angle2
+
+angle3 = 180 - angle_sum
+
+print(angle3)
