@@ -1,4 +1,4 @@
-# ----------------------------------------------------------
+fa# ----------------------------------------------------------
 # Introdução a Programação de Computadores - IPC
 # Universidade do Estado do Amazonas - UEA
 # Prof. Jucimar Jr
@@ -9,6 +9,6 @@
 # Wilbert Luís Evangelista Marins           1715310055
 # Mackson Garcez Moreno de Oliveira júnior  1215090300
 #
-# 21.
+# 21.Faça um algoritmo
 # ----------------------------------------------------------
 
